@@ -26,7 +26,8 @@ body {
     font-family: "Segoe UI", Arial, sans-serif;
     font-size: 14px;
     color: var(--text);
-    background: var(--bg);
+    background-image: url(../assets/background.jpg);
+    background-size: cover;
 }
 
 a { color: var(--primary); }
